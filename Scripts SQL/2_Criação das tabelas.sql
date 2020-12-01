@@ -1,5 +1,5 @@
 /*
-	SCRIPT DE CRIA«√O DAS TABELAS
+	SCRIPT DE CRIA√á√ÉO DAS TABELAS
 	AUTOR: Rafael Marques da Silva
 	DATA: 29/08/2018
 	LIVRARIA
@@ -45,7 +45,7 @@ BEGIN
 		[Codigo] [varchar](15) NOT NULL,
 		[Valor] [numeric](10, 2) NOT NULL,
 		[Descricao] [varchar](100) NOT NULL,
-		[Edicao] [varchar](30) NULL,
+		[Edicao] [varchar](40) NULL,
 		[Autor] [varchar](500) NULL,
 		[Arquivo] [varchar](500) NULL,
 		[EstoqueInicial] [int] NULL,
