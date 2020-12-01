@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/29 12:40:29.000.688,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/29 12:42:49.000.782,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Livraria\FPrincipal.pas</Transaction>
+    <Transaction>2018/08/29 12:42:49.000.782,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Livraria\FPrincipal.dfm</Transaction>
+    <Transaction>2018/08/29 12:43:00.000.187,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Livraria\Livraria.dproj</Transaction>
+    <Transaction>2018/08/29 12:47:37.000.607,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/08/29 12:48:03.000.234,E:\Livraria\Unit1.dfm=E:\Livraria\DM.dfm</Transaction>
+    <Transaction>2018/08/29 12:48:03.000.234,E:\Livraria\Unit1.pas=E:\Livraria\DM.pas</Transaction>
+    <Transaction>2018/08/29 12:57:37.000.168,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/08/29 12:58:22.000.957,E:\Livraria\Unit1.pas=E:\Livraria\Comum\Utilitarios.pas</Transaction>
+    <Transaction>2018/08/29 13:23:00.000.870,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/08/29 13:26:19.000.629,E:\Livraria\Unit1.pas=E:\Livraria\FPreco.pas</Transaction>
+    <Transaction>2018/08/29 13:26:19.000.629,E:\Livraria\Unit1.dfm=E:\Livraria\FPreco.dfm</Transaction>
+    <Transaction>2018/08/29 13:40:25.000.746,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/08/29 13:40:33.000.321,E:\Livraria\Unit1.dfm=E:\Livraria\FPesquisa.dfm</Transaction>
+    <Transaction>2018/08/29 13:40:33.000.321,E:\Livraria\Unit1.pas=E:\Livraria\FPesquisa.pas</Transaction>
+    <Transaction>2018/09/04 13:02:41.000.894,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/04 13:03:28.000.564,E:\Livraria\FProduto.pas=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/04 13:03:28.000.564,E:\Livraria\FProduto.dfm=E:\Livraria\Unit1.dfm</Transaction>
+    <Transaction>2018/09/05 22:36:14.000.719,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/05 22:36:30.000.617,E:\Livraria\Unit1.pas=E:\Livraria\FEditora.pas</Transaction>
+    <Transaction>2018/09/05 22:36:30.000.617,E:\Livraria\Unit1.dfm=E:\Livraria\FEditora.dfm</Transaction>
+    <Transaction>2018/09/10 19:54:47.000.542,=E:\Livraria\FFechamentp.pas</Transaction>
+    <Transaction>2018/09/10 19:55:23.000.145,=E:\Livraria\FFechamento.pas</Transaction>
+    <Transaction>2018/09/11 12:40:05.000.612,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 12:40:38.000.730,E:\Livraria\FRelFechamento.dfm=E:\Livraria\Unit1.dfm</Transaction>
+    <Transaction>2018/09/11 12:40:38.000.730,E:\Livraria\FRelFechamento.pas=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 12:59:15.000.668,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 13:01:38.000.805,=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 13:02:00.000.034,E:\Livraria\RRelFechamento.dfm=E:\Livraria\Unit1.dfm</Transaction>
+    <Transaction>2018/09/11 13:02:00.000.034,E:\Livraria\RRelFechamento.pas=E:\Livraria\Unit1.pas</Transaction>
+    <Transaction>2018/09/11 19:02:35.000.410,=E:\Livraria\FLog.pas</Transaction>
+    <Transaction>2018/09/11 19:09:53.000.073,E:\Livraria\FLog.pas=</Transaction>
+    <Transaction>2018/09/11 19:35:00.000.447,E:\Livraria\RRelFechamento.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Comum"/>
+    <File Path="Comum\Utilitarios.pas"/>
+    <File Path="DM.pas"/>
+    <File Path="DM.dfm"/>
+    <File Path="FEditora.pas"/>
+    <File Path="FEditora.dfm"/>
+    <File Path="FFechamento.pas"/>
+    <File Path="FFechamento.dfm"/>
+    <File Path="FPesquisa.pas"/>
+    <File Path="FPesquisa.dfm"/>
+    <File Path="FPreco.pas"/>
+    <File Path="FPreco.dfm"/>
+    <File Path="FPrincipal.pas"/>
+    <File Path="FPrincipal.dfm"/>
+    <File Path="FProduto.pas"/>
+    <File Path="FProduto.dfm"/>
+    <File Path="FRelFechamento.pas"/>
+    <File Path="FRelFechamento.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
